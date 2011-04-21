@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>BC Find Content Object</name>
+        <version>0.4.0</version>
+        <copyright>Copyright (C) 2011 Brookins Consulting</copyright>
+        <license>GNU General Public License v2.0</license>
+        <info_url>http://projects.ez.no/bcfindcontentobject</info_url>
+    </metadata>
+
+    <dependencies>
+        <requires>
+        </requires>
+    </dependencies>
+
+</software>
